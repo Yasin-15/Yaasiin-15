@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaasiin Mohamuud</h1>
-<h3 align="center">A passionate Full stack web developer from Somalia</h3>
+<h3 align="center">A passionate Full stack Web Developer </h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=yaasiin-15&label=Profile%20views&color=0e75b6&style=flat](https://github.com/Yaasiin-15)" alt="yaasiin-15" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaasiin-15" alt="yaasiin-15" /></a> </p>
 
 - 🔭 I’m currently working on [School Management System](https://github.com/Yaasiin-15/school-project)
 
