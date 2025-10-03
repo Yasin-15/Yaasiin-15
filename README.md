@@ -1,12 +1,19 @@
 <div align="center">
-  
-# Hi there! 👋 I'm Yaasiin Mohamuud
 
-<img src="yaasiin-avatar.png" alt="Yaasiin Mohamuud - Full Stack Developer" width="200" height="200" style="border-radius: 50%; border: 3px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Yaasiin Mohamuud
 
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
+<p align="center">
+  <img src="https://github.com/Yaasiin-15/Yaasiin-15/blob/main/yaasiin-avatar.png?raw=true" alt="Yaasiin Mohamuud" width="200" height="200" style="border-radius: 50%;">
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Always+Learning+New+Tech;Building+Amazing+Projects" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Tech+%F0%9F%93%9A;Building+Amazing+Projects+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yaasiin-15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yaasiin-15?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 </div>
 
@@ -14,7 +21,11 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F75C7E&multiline=true&width=600&height=100&lines=Passionate+about+creating+scalable+solutions;Turning+ideas+into+reality+with+code" alt="About Me Typing" />
+</p>
 
 🔭 **Currently Working On:** School Management System - Building scalable educational solutions
 
@@ -37,7 +48,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaasiin-mohamuud-3a30622b3)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaasiin-15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasindev54@gmail.com)
 
 </div>
 
@@ -135,6 +146,14 @@
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://github.com/Yaasiin-15/Yaasiin-15/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
 ---
 
 ## 💭 Random Dev Quote
@@ -170,7 +189,15 @@
 ---
 
 <div align="center">
-  
-### 🌟 Thanks for visiting my profile! Feel free to reach out for collaborations or just a friendly chat about tech!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%8C%9F;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+new+opportunities!+%F0%9F%92%BC" alt="Footer Typing" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 </div>
