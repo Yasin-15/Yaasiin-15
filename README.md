@@ -1,19 +1,38 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Yaasiin Mohamuud <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F7D794&height=200&section=header&text=Yaasiin%20Mohamuud&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-<p align="center">
-  <img src="./images/yaasiin-avatar.jpg" alt="Yaasiin Mohamuud - Full Stack Developer" width="200" height="200" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 25px rgba(0, 212, 255, 0.6); animation: float 3s ease-in-out infinite;">
-</p>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my Digital Universe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+<div style="position: relative; display: inline-block;">
+  <img src="./images/yaasiin-avatar.jpg" alt="Yaasiin Mohamuud - Full Stack Developer" width="220" height="220" style="border-radius: 50%; border: 5px solid; border-image: linear-gradient(45deg, #00d4ff, #ff6b6b, #4ecdc4, #45b7d1) 1; box-shadow: 0 0 30px rgba(0, 212, 255, 0.8), 0 0 60px rgba(255, 107, 107, 0.4); animation: profileFloat 4s ease-in-out infinite, borderRotate 8s linear infinite; position: relative; z-index: 2;">
+  
+  <!-- Floating particles around image -->
+  <div style="position: absolute; top: -10px; left: -10px; width: 240px; height: 240px; border-radius: 50%; background: conic-gradient(from 0deg, transparent, #00d4ff, transparent, #ff6b6b, transparent); animation: rotate 10s linear infinite; z-index: 1; opacity: 0.3;"></div>
+</div>
 
 <style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
+@keyframes profileFloat {
+  0%, 100% { transform: translateY(0px) scale(1); }
+  25% { transform: translateY(-8px) scale(1.02); }
+  50% { transform: translateY(-15px) scale(1.05); }
+  75% { transform: translateY(-8px) scale(1.02); }
+}
+
+@keyframes borderRotate {
+  0% { filter: hue-rotate(0deg); }
+  100% { filter: hue-rotate(360deg); }
+}
+
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
 </style>
 
-<!-- 🎨 Your professional image with cartoon-style effects! -->
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer+%26+Tech+Innovator;%E2%9A%A1+MERN+Stack+Wizard+%7C+Problem+Solver+%F0%9F%A7%A9;%F0%9F%8C%9F+Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Tech+%F0%9F%93%9A;Building+Amazing+Projects+%F0%9F%8C%9F;Code+%2B+Coffee+%3D+Magic+%E2%98%95%F0%9F%AA%84" alt="Typing SVG" />
@@ -32,13 +51,17 @@
 
 ---
 
-## 💫 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> About Me
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=F75C7E&multiline=true&width=600&height=100&lines=Passionate+about+creating+scalable+solutions;Turning+ideas+into+reality+with+code" alt="About Me Typing" />
-</p>
+<img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px 0;">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2500&pause=800&color=FFFFFF&multiline=true&width=600&height=120&lines=%F0%9F%92%A1+Passionate+about+creating+scalable+solutions;%F0%9F%8E%AF+Turning+innovative+ideas+into+digital+reality;%E2%9C%A8+Building+the+future%2C+one+line+of+code+at+a+time" alt="About Me Typing" />
+
+</div>
 
 🔭 **Currently Working On:** School Management System - Building scalable educational solutions
 
