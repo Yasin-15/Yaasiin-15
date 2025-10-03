@@ -1,27 +1,171 @@
-# 💫 About Me:
-🔭 I’m currently working on School Management System<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with New Developers<br>🌱 I’m currently learning Mobile App<br>💬 Ask me about Mern Stack<br>⚡ Fun fact
+<div align="center">
+  
+# Hi there! 👋 I'm Yaasiin Mohamuud
 
+<img src="your-cartoon-image.png" alt="Yaasiin's Cartoon Avatar" width="200" height="200" style="border-radius: 50%; border: 3px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaasiin-mohamuud-3a30622b3) 
+### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=plastic&logo=Thymeleaf&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yaasiin-15&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yaasiin-15&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaasiin-15&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Always+Learning+New+Tech;Building+Amazing+Projects" alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yaasiin-15&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yaasiin-15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yaasiin-15&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+🔭 **Currently Working On:** School Management System - Building scalable educational solutions
+
+� **LoToking to Collaborate On:** Open source projects and innovative web applications
+
+🤝 **Seeking Help With:** Mentoring new developers and sharing knowledge
+
+🌱 **Currently Learning:** Mobile App Development - Expanding into cross-platform solutions
+
+💬 **Ask Me About:** MERN Stack, Full Stack Development, System Architecture
+
+⚡ **Fun Fact:** I turn coffee into code and bugs into features! ☕→💻
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaasiin-mohamuud-3a30622b3)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaasiin-15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🔧 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yaasiin-15&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaasiin-15&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Yaasiin-15&theme=radical&hide_border=false)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Yaasiin-15&theme=synthwave&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![School Management System](https://github-readme-stats.vercel.app/api/pin/?username=Yaasiin-15&repo=school-management-system&theme=radical)](https://github.com/Yaasiin-15/school-management-system)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Yaasiin-15&repo=portfolio&theme=radical)](https://github.com/Yaasiin-15/portfolio)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yaasiin-15&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Yaasiin-15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Yaasiin-15&icon=9&color=0)
+
+**⭐ From [Yaasiin-15](https://github.com/Yaasiin-15) | Let's build something amazing together! 🚀**
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🌟 Thanks for visiting my profile! Feel free to reach out for collaborations or just a friendly chat about tech! 
+
+</div>
