@@ -2,7 +2,7 @@
   
 # Hi there! 👋 I'm Yaasiin Mohamuud
 
-<img src="your-cartoon-image.png" alt="Yaasiin's Cartoon Avatar" width="200" height="200" style="border-radius: 50%; border: 3px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">
+<img src="yaasiin-avatar.png" alt="Yaasiin Mohamuud - Full Stack Developer" width="200" height="200" style="border-radius: 50%; border: 3px solid #00d4ff; box-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">
 
 ### 🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
@@ -48,12 +48,14 @@
 <div align="center">
 
 ### 🌐 Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### ⚙️ Backend
+
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -61,6 +63,7 @@
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,12 +71,14 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### 🔧 Tools & Others
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
@@ -166,6 +171,6 @@
 
 <div align="center">
   
-### 🌟 Thanks for visiting my profile! Feel free to reach out for collaborations or just a friendly chat about tech! 
+### 🌟 Thanks for visiting my profile! Feel free to reach out for collaborations or just a friendly chat about tech!
 
 </div>
