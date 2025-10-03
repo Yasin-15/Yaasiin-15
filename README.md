@@ -1,13 +1,26 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Yaasiin Mohamuud
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Yaasiin Mohamuud <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
-  <img src="https://github.com/Yaasiin-15/Yaasiin-15/blob/main/yaasiin-avatar.png?raw=true" alt="Yaasiin Mohamuud" width="200" height="200" style="border-radius: 50%;">
+  <img src="./yaasiin-avatar.png" alt="Yaasiin Mohamuud - Full Stack Developer" width="200" height="200" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 25px rgba(0, 212, 255, 0.6); animation: float 3s ease-in-out infinite;">
+</p>
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+</style>
+
+<!-- 🎨 Your professional image with cartoon-style effects! -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Tech+%F0%9F%93%9A;Building+Amazing+Projects+%F0%9F%8C%9F;Code+%2B+Coffee+%3D+Magic+%E2%98%95%F0%9F%AA%84" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Expert+%E2%9A%A1;Problem+Solver+%F0%9F%A7%A9;Always+Learning+New+Tech+%F0%9F%93%9A;Building+Amazing+Projects+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </p>
 
 <p align="center">
