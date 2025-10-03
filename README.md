@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there! I'm Yaasiin Mohamuud <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <p align="center">
-  <img src="./yaasiin-avatar.png" alt="Yaasiin Mohamuud - Full Stack Developer" width="200" height="200" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 25px rgba(0, 212, 255, 0.6); animation: float 3s ease-in-out infinite;">
+  <img src="./images/yaasiin-avatar.jpg" alt="Yaasiin Mohamuud - Full Stack Developer" width="200" height="200" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 25px rgba(0, 212, 255, 0.6); animation: float 3s ease-in-out infinite;">
 </p>
 
 <style>
