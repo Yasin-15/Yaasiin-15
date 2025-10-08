@@ -126,7 +126,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yasiin-15&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yasin-15&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasin-15&theme=dark&hide_border=false" /> 
 </td>
@@ -167,8 +167,8 @@
 
 <div align="center">
 
-[![School Management System](https://github-readme-stats.vercel.app/api/pin/?username=Yaasiin-15&repo=school-management-system&theme=radical)](https://github.com/Yaasiin-15/school-management-system)
-[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Yaasiin-15&repo=portfolio&theme=radical)](https://github.com/Yaasiin-15/portfolio)
+[![School Management System](https://github-readme-stats.vercel.app/api/pin/?username=Yasin-15&repo=school-management-system&theme=radical)](https://github.com/Yasin-15/school-management-system)
+[![Portfolio Website](https://github-readme-stats.vercel.app/api/pin/?username=Yasin-15&repo=portfolio&theme=radical)](https://github.com/Yasin-15/portfolio)
 
 </div>
 
@@ -192,7 +192,7 @@
 
 <div align="center">
   
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Yaasiin-15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Yasin-15&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -204,7 +204,7 @@
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=Yaasiin-15&icon=9&color=0)
 
-**⭐ From [Yaasiin-15](https://github.com/Yaasiin-15) | Let's build something amazing together! 🚀**
+**⭐ From [Yaasiin-15](https://github.com/Yasin-15) | Let's build something amazing together! 🚀**
 
 </div>
 
@@ -237,6 +237,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=Yaasiin-15&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
-**⭐ From [Yaasiin Mohamuud](https://github.com/Yaasiin-15) with ❤️ | Let's innovate together! 🚀**
+**⭐ From [Yasin Mohamud](https://github.com/Yaasiin-15) with ❤️ | Let's innovate together! 🚀**
 
 </div>
