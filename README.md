@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F7D794&height=200&section=header&text=Yaasiin%20Mohamuud&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1EAFC,100:F7D794&height=200&section=header&text=Yasin%20Mohamud&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my Digital Universe! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <!-- <p align="center">
-  <img src="./images/yaasiin-avatar.png" alt="Yaasiin Mohamuud - Full Stack Developer" width="220" height="220" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 25px rgba(0, 212, 255, 0.6);">
+  <img src="./images/yaasiin-avatar.png" alt="Yasin Mohamuud - Full Stack Developer" width="220" height="220" style="border-radius: 50%; border: 4px solid #00d4ff; box-shadow: 0 0 25px rgba(0, 212, 255, 0.6);">
 </p> -->
 
 <br>
@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yaasiin-15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Yaasiin-15?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Yasin-15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Yasin-15?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
 </div>
@@ -59,8 +59,8 @@
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaasiin-mohamuud-3a30622b3)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yaasiin-15)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-mohamuud-3a30622b3)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yasin-15)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasindev54@gmail.com)
 
@@ -126,14 +126,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yaasiin-15&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Yasiin-15&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yaasiin-15&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Yasin-15&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yaasiin-15&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Yasin-15&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -141,7 +141,7 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yaasiin-15&bg_color=0d1117&color=4c8eda&line=4c8eda&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yasin-15&bg_color=0d1117&color=4c8eda&line=4c8eda&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -157,7 +157,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yaasiin-15&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Yasin-15&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
 
 </div>
 
